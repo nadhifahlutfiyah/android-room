@@ -1,4 +1,4 @@
-# sqlite-android-java
+# android-room
 
 Nadhifah Lutfiyah Mahmudah / 2041720082 / TI-3B / 20
 
